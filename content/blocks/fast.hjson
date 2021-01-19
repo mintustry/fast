@@ -1,0 +1,26 @@
+{ 
+  "name": fast
+  "type": "OverdriveProjector",
+  "consumes": {
+        "items": {
+    "items": [
+        {"item": "phase-fabric", "amount": 1},
+    ],
+    "booster": true,
+    "optional": true
+  }
+  },
+  "category": "effect",
+  "research": "overdrive-projector",
+  "range": 100,
+  "size": 2,
+  "speedBoost": 100,
+  "speedBoostPhase": 500,
+  "useTime": 60,
+  "phaseRangeBoost": 50,
+  "requirements": [
+    { "item": "plastanium", "amount": 1250 },
+    { "item": "surge-alloy", "amount": 1050 },
+    { "item": "phase-fabric", "amount": 3545 },
+  ]
+}
