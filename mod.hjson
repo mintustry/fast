@@ -2,4 +2,4 @@ name: "fast"
 displayName: "fast" //fast
 description: "fast"
 version: "1"
-minGameVersion: "104.6"
+minGameVersion: "112"
