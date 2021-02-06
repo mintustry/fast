@@ -1,0 +1,15 @@
+name: Quantum clock
+description: speen
+type: Logicblock
+health: 650
+size: 2
+maxInstructionScale: 10000
+instructionsPerTick: 1000
+range: 320
+requirements: [
+  plastanium/4
+  phase-fabric/4
+  metaglass/2
+]
+category: defense
+research: plastanium-wall
