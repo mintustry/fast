@@ -1,5 +1,5 @@
 { 
-  "name": fast
+  "name": underfined
   "description": (-nil)
   "type": "OverdriveProjector",
   "destructible": true
@@ -16,7 +16,7 @@
   "category": "effect",
   "research": "overdrive-projector",
   "range": 100,
-  "size": 2,
+  "size": 3,
   "speedBoost": 5000,
   "speedBoostPhase": 5000,
   "useTime": 60,
