@@ -3,6 +3,7 @@
   "description": (-nil)
   "type": "OverdriveProjector",
   "destructible": true
+  "haspower": false
   "consumes": {
         "items": {
     "items": [
