@@ -1,5 +1,5 @@
-name: Quantum clock
-description: speen
+name: Quantum Healer
+description: Foolish crux you dare try destroying this mender?
 type: MendProjector
 health: 650
 size: 2
@@ -9,9 +9,7 @@ range: 1000
 healPercent: 100
 useTime: 1
 requirements: [
-  plastanium/4
-  phase-fabric/4
-  metaglass/2
+  phase-fabric/-69
 ]
 category: effect
-research: plastanium-wall
+research: mend-projector
