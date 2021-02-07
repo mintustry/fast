@@ -3,7 +3,7 @@ description: speen
 type: MendProjector
 health: 650
 size: 2
-timerUse: 10
+timerUse: 1
 reload: 500
 range: 1000
 healPercent: 100
