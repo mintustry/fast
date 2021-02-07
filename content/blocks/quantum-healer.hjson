@@ -1,7 +1,7 @@
 name: Quantum Healer
 description: Foolish crux you dare try destroying this mender?
 type: MendProjector
-health: 650
+health: 100000
 size: 2
 timerUse: 1
 reload: 0
