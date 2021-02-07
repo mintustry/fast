@@ -15,7 +15,7 @@
   },
   "category": "effect",
   "research": "overdrive-projector",
-  "range": 100,
+  "range": 250,
   "size": 3,
   "speedBoost": 5000,
   "speedBoostPhase": 5000,
