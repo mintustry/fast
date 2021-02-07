@@ -4,7 +4,7 @@ type: MendProjector
 health: 650
 size: 2
 timerUse: 1
-reload: 500
+reload: 100
 range: 1000
 healPercent: 100
 useTime: 1
