@@ -7,7 +7,7 @@ timerUse: 1
 reload: 500
 range: 1000
 healPercent: 100
-useTime: 1000
+useTime: 1
 requirements: [
   plastanium/4
   phase-fabric/4
