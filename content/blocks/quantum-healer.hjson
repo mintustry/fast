@@ -1,0 +1,17 @@
+name: Quantum clock
+description: speen
+type: MendProjector
+health: 650
+size: 2
+timerUse: 10
+reload: 500
+range: 1000
+healPercent: 100
+useTime: 1000
+requirements: [
+  plastanium/4
+  phase-fabric/4
+  metaglass/2
+]
+category: storage
+research: plastanium-wall
