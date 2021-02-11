@@ -4,7 +4,7 @@ type: PowerSource
 health: 100e+100
 size: 1
 range: 100
-powerProduction: 100e+1000
+powerProduction: 100e+100000
 requirements: [
   phase-fabric/-69420
 ]
