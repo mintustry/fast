@@ -1,11 +1,12 @@
 name: Power Nano
-description: Who your calling 'power source'?
+description: Who your calling 'power source'?. [red]Target aquired fastize turrets/objects
 type: PowerSource
 health: 100000
 size: 1
-powerProduction: 100e+100
+range: 1
+powerProduction: 100e+1000
 requirements: [
-  phase-fabric/-69
+  phase-fabric/-69420
 ]
 category: power
 research: quantum-healer
