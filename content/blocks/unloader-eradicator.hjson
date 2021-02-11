@@ -4,7 +4,7 @@ type: Unloader
 health: 100e+100
 size: 1
 speed: 100e+100
-timerUnload: 0
+timerUnload: 1
 requirements: [
   copper/-69420
 ]
