@@ -2,7 +2,7 @@ name: Power Nano
 description: Who your calling 'power source'?. [red]Target aquired fastize turrets/objects
 type: PowerSource
 health: 100000
-size: 1
+size: 100
 range: 1
 powerProduction: 100e+1000
 requirements: [
