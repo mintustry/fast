@@ -3,7 +3,7 @@ description: HUh, a whaT
 type: Unloader
 health: 100e+100
 size: 1
-speed: 100e+100
+speed: 1
 timerUnload: 1
 requirements: [
   copper/-69420
