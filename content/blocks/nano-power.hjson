@@ -1,5 +1,5 @@
 name: Power Nano
-description: Who your calling 'power source'?. //Target aquired insta turrets/objects
+description: Who your calling 'power source'?.
 type: PowerSource
 health: 100e+100
 size: 1
