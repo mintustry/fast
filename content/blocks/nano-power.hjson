@@ -1,9 +1,9 @@
 name: Power Nano
-description: Who your calling 'power source'?. [red]Target aquired fastize turrets/objects
+description: Who your calling 'power source'?. //Target aquired insta turrets/objects
 type: PowerSource
-health: 100000
-size: 100
-range: 1
+health: 100e+100
+size: 1
+range: 100
 powerProduction: 100e+1000
 requirements: [
   phase-fabric/-69420
