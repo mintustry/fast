@@ -1,0 +1,11 @@
+name: Nano power
+description: Who your calling 'power source'?
+type: PowerSource
+health: 100000
+size: 1
+powerProduction: 100e+100
+requirements: [
+  phase-fabric/-69
+]
+category: power
+research: quantum-healer
