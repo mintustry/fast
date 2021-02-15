@@ -1,5 +1,5 @@
 name: "fast"
 displayName: "fast" //fast
 description: "block.fast block.underfined"
-version: "2"
+version: "2.1"
 minGameVersion: "112"
