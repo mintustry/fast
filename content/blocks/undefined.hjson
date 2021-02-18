@@ -1,5 +1,5 @@
 { 
-  "name": underfined
+  "name": undefined
   "description": (-nil)
   "type": "OverdriveProjector",
   "destructible": true
@@ -18,7 +18,7 @@
   "range": 250,
   "size": 3,
   "speedBoost": 5000,
-  "speedBoostPhase": 5000,
+  "speedBoostPhase": 99999995000,
   "useTime": 60,
   "phaseRangeBoost": 50,
   "requirements": [
