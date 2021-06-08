@@ -1,6 +1,6 @@
 { 
-  "name": undefined
-  "description": (-nil)
+  "name": Accelerator
+  "description": a
   "type": "OverdriveProjector",
   "destructible": true
   "haspower": false
@@ -18,9 +18,11 @@
   "range": 250,
   "size": 3,
   "speedBoost": 5000,
+  "buildVisibility": "sandboxOnly",
   "speedBoostPhase": 99999995000,
   "useTime": 60,
   "phaseRangeBoost": 50,
+  "baseColor": BF92F9,
   "requirements": [
     { "item": "phase-fabric", "amount": -1},
   ]
