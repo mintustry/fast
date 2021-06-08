@@ -1,5 +1,5 @@
 { 
-  "name": fast
+  "name": Overclocker
   "type": "OverdriveProjector",
   "consumes": {
         "items": {
@@ -17,10 +17,4 @@
   "speedBoost": 500,
   "speedBoostPhase": 500,
   "useTime": 60,
-  "phaseRangeBoost": 50,
-  "requirements": [
-    { "item": "plastanium", "amount": 1250 },
-    { "item": "surge-alloy", "amount": 1050 },
-    { "item": "phase-fabric", "amount": 3545 },
-  ]
 }
