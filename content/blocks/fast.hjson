@@ -17,4 +17,5 @@
   "speedBoost": 500,
   "speedBoostPhase": 500,
   "useTime": 60,
+  "phaseRangeBoost": 50,
 }
